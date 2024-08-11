@@ -1,0 +1,157 @@
+.upload-container {
+    display: flex;
+    color: #757575;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-top: 10px;
+    border: 1px solid #e0e0e0;
+    padding: 0;
+    background-color: #f6f6f6;
+    margin-right: 20px;
+    margin-left: 20px;
+    max-width: 340px;
+    text-decoration: none;
+}
+.upload-Box {
+    display: block;
+    background-color: #fff;
+    width: 100%;
+    padding: 27px 17px;
+    color: #424242;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 1px;
+    font-family: "IBM Plex Sans", sans-serif;
+}
+.column-order-via-prescription>div:first-child {
+    display: flow-root;
+    border-radius: 4px;
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.14);
+    background-color: #fff;
+    padding: 20px 15px;
+    min-height: 400px;
+}
+#order-via-prescription-container {
+    padding: 24px 0;
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+    min-height: 600px;
+    margin-bottom: 8px;
+}
+.empty-cover {
+    font-size: 14px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #212121;
+    margin: 20px auto;
+}
+.empty-cover > p {
+    font-size: 14px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #212121;
+    margin: 20px auto;
+}
+.img {
+    width: 70px;
+    height: 70px;
+    border-radius: 4px;
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.empty-cover > div p {
+    width: 172px;
+    height: 38px;
+    font-size: 14px;
+    font-weight: 400;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #757575;
+    margin-left: 10px;
+    margin-top: 16px;
+}
+.column-order-via-prescription > div > h4 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #212121;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.column-order-via-prescription > div > p {
+    font-size: 14px;
+    color: #757575;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.disabled {
+    background-color: rgb(199, 199, 199);
+    color: rgb(255, 255, 255);
+    height: 40px;
+    margin-top: 16px;
+    padding: 0px 16px;
+    display: inline-flex;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 4px;
+    z-index: 100;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+.guide>div:first-child {
+    border-radius: 4px;
+    box-shadow: 0 0 7px 0 rgba(0,0,0,.14);
+    background-color: #fff;
+    min-height: 400px;
+    padding: 10px 15px;
+}
+.guide > div > h4{
+    font-size: 18px;
+    font-weight: 700;
+    color: #212121;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.image-container{
+    padding: 8px 14px;
+    display: flex;
+    margin-top: 12px;
+    padding-left: 0;
+}
+.list-guide{
+    margin-top: 4px;
+    padding-left: 18px;
+    font-size: 12px;
+    margin-left: 20px;
+    width: 225px;
+    height: 365px;
+}
+.list-guide > li{
+    padding: 4px;
+    list-style: disc;
+    font-size: 12px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.care-plan-banner>img{
+    width: 90%;
+    padding: 10px;
+    margin-left: 50px;
+    cursor: pointer;
+}

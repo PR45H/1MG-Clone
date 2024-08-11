@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Online Pharmacy India | Buy Medicines form India's Trusted Medicines
+      Store: 1mg.com
+    </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+    
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="navbar.css" />
+    <link rel="stylesheet" href="footer.css">
+
+  </head>
+  <body>
+    <div id="navbar"></div>
+
+    <div id="footer">
+      
+    </div>
+  </body>
+  <script src="https://kit.fontawesome.com/11780dfd96.js" crossorigin="anonymous"></script>
+  <script src="index.js"></script>
+  <script type="module">
+                             // NAVBAR
+    import navbar from "./navbar.js"
+    document.getElementById('navbar').innerHTML = navbar()
+
+                                // footer
+    import footer from "./footer.js"
+    document.getElementById('footer').innerHTML = footer()
+
+
+  </script>
+</html>
