@@ -37,4 +37,4 @@ This README assumes you've implemented the core e-commerce functionalities. If c
 
 * **Currently Implemented:** [login & SIgn Up Page, Prescription Upload Page, Header & Footer]
 * **In Progress:** [Detailed product information and user reviews]
-* **Future Goals:** [Secure online ordering and payment processing , Intuitive product search and navigation] 
+* **Future Goals:** [Secure online ordering and payment processing , Intuitive product search and navigation, use react framework and also create backend] 
